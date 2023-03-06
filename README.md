@@ -1,4 +1,6 @@
+#
 # Learning PyTorch along with attention-based NLP
+#
 
 Andrej Karpathy lecture: "Let's build GPT: from scratch, in code, spelled out." https://youtu.be/kCc8FmEb1nY
 Reference repo by the lecturer: https://github.com/karpathy/nanoGPT
